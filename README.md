@@ -2,6 +2,6 @@
 
 En este proyecto se van a encontrar dos archivos
 
-* Por un lado un trabajo de análisis de los productos con descuento disponibles en la plataforma de Mercado Libre. En este se analizan las características de los productos que cuentan con descuento.
+* Por un lado un trabajo de análisis de los productos con descuento disponibles en la plataforma de Mercado Libre. En este se analizan las características de los productos que cuentan con descuento. El archivo es 'product_prediction'.
 
-* Un modelo predictivo de la cantidad de productos vendidos, donde se evaluaron distintos modelos y métricas de performance 
+* Un modelo predictivo de la cantidad de productos vendidos, donde se evaluaron distintos modelos y métricas de performance. El archivo es 'generate_model'.
